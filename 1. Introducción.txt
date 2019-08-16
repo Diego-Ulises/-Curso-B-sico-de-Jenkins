@@ -1,0 +1,4 @@
+Introducción a Automatización
+Automatizamos porque nos deja reproducir procesos y nos otorga mayor productividad, si los corremos manualmente podemos aburrirnos lo que nos lleva a saltarnos pasos y a generar errores. Por eso los automatizamos y podemos pasar más tiempo haciendo código, implementando nuevos features.
+
+Podemos automatizar correr pruebas, correr deployments, la verificación de la disponibilidad de nuestro sitio, podemos verificar cualquier cosa.
